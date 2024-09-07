@@ -2,7 +2,10 @@
 
 ## App Demo
 
-![App Demo](https://github.com/user-attachments/assets/2fcf3a9c-b424-41ec-88bc-03936701d9bf)
+## App Demo
+
+[![App Demo](https://github.com/user-attachments/assets/2fcf3a9c-b424-41ec-88bc-03936701d9bf)](https://github.com/user-attachments/assets/2fcf3a9c-b424-41ec-88bc-03936701d9bf)
+
 
 ## App Overview
 This Flutter app provides a feature that tracks the user’s location and sends notifications when nearby gas stations are detected. The app runs location tracking in the background.
