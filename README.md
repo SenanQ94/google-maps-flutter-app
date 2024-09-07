@@ -1,5 +1,9 @@
 # Flutter Google Maps with notifications and background service
 
+## App Demo
+
+![App Demo](path_to_video.mp4)
+
 ## App Overview
 This Flutter app provides a feature that tracks the user’s location and sends notifications when nearby gas stations are detected. The app runs location tracking in the background.
 
