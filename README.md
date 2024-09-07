@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/2fcf3a9c-b424-41ec-88bc-03936701d9bf">
-    <img src="https://github.com/user-attachments/assets/2fcf3a9c-b424-41ec-88bc-03936701d9bf" alt="App Demo" style="width: 100%; max-width: 1000px; aspect-ratio: 19 / 6;">
+    <img src="https://github.com/user-attachments/assets/2fcf3a9c-b424-41ec-88bc-03936701d9bf" alt="App Demo">
   </a>
 </p>
+
 
 
 ## App Overview
